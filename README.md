@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gowtham MA</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-###DIGITAL BADGES:[![@gowtham's Holopin board](https://holopin.me/magowtham)](https://holopin.io/@magowtham)
+<h3>DIGITAL BADGES:</h3>[![@gowtham's Holopin board](https://holopin.me/magowtham)](https://holopin.io/@magowtham)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magowtham&label=Profile%20views&color=0e75b6&style=flat" alt="magowtham" /> </p>
 
 - 🔭 I’m currently working on **Telephone Transaction Management System**
