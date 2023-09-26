@@ -1,4 +1,4 @@
-### Hi there 👋
+#Hi there 👋
 
 <!--
 **Magowtham/Magowtham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## DIGITAL BADGES:[![@gowtham's Holopin board](https://holopin.me/magowtham)](https://holopin.io/@magowtham)
+#DIGITAL BADGES:[![@gowtham's Holopin board](https://holopin.me/magowtham)](https://holopin.io/@magowtham)
